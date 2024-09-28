@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-09-28T03:32:05.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.0.5" etag="ZfR9jWEdeVMc33BAiUqo" type="github">
-  <diagram name="Page-1" id="LIIWQlGNrpKbqpngXmqF">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Login &amp; Registeration" id="LIIWQlGNrpKbqpngXmqF">
+    <mxGraphModel dx="1299" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="250" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="70" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VOTae2nMXVnKWl_GaTcv-9">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-5" value="" style="group" vertex="1" connectable="0" parent="VOTae2nMXVnKWl_GaTcv-9">
+          <mxGeometry x="173" y="6.5" width="73" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.battery;" vertex="1" parent="VOTae2nMXVnKWl_GaTcv-5">
+          <mxGeometry x="53" y="5.5" width="21" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-3" value="" style="points=[[0,0.58,0],[0.09,0.58,0],[0.36,0.39,0],[0.64,0.195,0],[0.91,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0,1,0],[0.09,1,0],[0.36,1,0],[0.64,1,0],[0.91,1,0],[0,0.79,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wifi_indicator;fillColor=#005073;strokeColor=none;" vertex="1" parent="VOTae2nMXVnKWl_GaTcv-5">
+          <mxGeometry x="22" y="1.5" width="22" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="VOTae2nMXVnKWl_GaTcv-5">
+          <mxGeometry width="17.7" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="VOTae2nMXVnKWl_GaTcv-6" value="01:12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VOTae2nMXVnKWl_GaTcv-9">
+          <mxGeometry width="33" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
