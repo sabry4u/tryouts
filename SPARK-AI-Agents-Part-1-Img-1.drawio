@@ -101,13 +101,10 @@
           <mxGeometry x="268.59000000000003" y="155.12" width="110.69" height="16.01" as="geometry" />
         </mxCell>
         <mxCell id="UMgLE48t6Uz4dZOfTjDk-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ai.pydantic.dev/img/pydantic-ai-light.svg;" vertex="1" parent="1">
-          <mxGeometry x="208" y="184" width="131" height="18.46" as="geometry" />
+          <mxGeometry x="209.5" y="187" width="135" height="22.46" as="geometry" />
         </mxCell>
         <mxCell id="UMgLE48t6Uz4dZOfTjDk-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.sanity.io/images/bbnkhnhl/production/427a505726c072cf6a79711492a409e75fc85135-1999x600.png;clipPath=inset(22.22% 12.33% 22.22% 11.33%);" vertex="1" parent="1">
-          <mxGeometry x="164.21" y="244.94" width="126.46" height="31.52" as="geometry" />
-        </mxCell>
-        <mxCell id="UMgLE48t6Uz4dZOfTjDk-49" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/6659a154491a54a40551bc78/6686afd48a4c823499baa2e7_Camel%20Logo%20Long.png;" vertex="1" parent="1">
-          <mxGeometry x="180.55" y="210.85000000000002" width="105" height="24.42" as="geometry" />
+          <mxGeometry x="166.54000000000002" y="219.5" width="135.45999999999998" height="37.519999999999996" as="geometry" />
         </mxCell>
         <mxCell id="UMgLE48t6Uz4dZOfTjDk-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.prod.website-files.com/600df1fb794a0f5f2ce497e7/66cd11875ced668f94373ba7_Semantic%20Kernel.png;clipPath=inset(22.33% 16% 23.67% 16.33%);" vertex="1" parent="1">
           <mxGeometry x="316.68999999999994" y="216.52000000000012" width="62" height="49.47783251231527" as="geometry" />
