@@ -187,10 +187,91 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57D0zzngcOZWlskTWbCJ" name="Page-3">
-    <mxGraphModel dx="1039" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="1018" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x1emsaLU5U0SJTcvq94k-1" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=user" vertex="1" parent="1">
+          <mxGeometry x="273" y="205" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-5" value="Tools &amp;amp; Systems" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="493" y="209.25" width="125" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-12" value="AI Agent" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0066CC;sketch=1;curveFitting=1;jiggle=2;verticalAlign=bottom;fontStyle=1;fontSize=20;fontColor=light-dark(#0066cc, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="130" y="404" width="620" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-13" value="Perception&lt;br&gt;Module" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="437" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-15" value="Cognitive&lt;br&gt;Module" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="437" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-16" value="Action&lt;br&gt;Module" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="437" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="385.5" y="206.5" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-21" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;strokeColor=light-dark(#0066cc, #ededed);" vertex="1" parent="x1emsaLU5U0SJTcvq94k-24">
+          <mxGeometry width="60" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-4" value="AI&lt;div&gt;Agent&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0066cc, #ededed);fontStyle=1" vertex="1" parent="x1emsaLU5U0SJTcvq94k-24">
+          <mxGeometry y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="x1emsaLU5U0SJTcvq94k-21" target="x1emsaLU5U0SJTcvq94k-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="x1emsaLU5U0SJTcvq94k-21" target="x1emsaLU5U0SJTcvq94k-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-31" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=user" vertex="1" parent="1">
+          <mxGeometry x="21" y="815" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="129" y="817" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-33" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;strokeColor=light-dark(#0066cc, #ededed);" vertex="1" parent="x1emsaLU5U0SJTcvq94k-32">
+          <mxGeometry width="60" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-34" value="AI&lt;div&gt;Agent&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0066cc, #ededed);fontStyle=1" vertex="1" parent="x1emsaLU5U0SJTcvq94k-32">
+          <mxGeometry y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-35" value="Planning &amp;amp; Decisioning Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#ffffff, #ededed);fontStyle=1;fontSize=20;fillColor=light-dark(#2975e2, #ededed);sketch=1;curveFitting=1;jiggle=2;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="256" y="719" width="51" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-36" value="Data Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=20;fillColor=light-dark(#ffffff, #ededed);sketch=1;curveFitting=1;jiggle=2;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="722" width="276" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-37" value="Specialized Agent/LLM Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=20;fillColor=light-dark(#ffffff, #ededed);sketch=1;curveFitting=1;jiggle=2;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="786" width="276" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-38" value="Memory Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=20;fillColor=light-dark(#ffffff, #ededed);sketch=1;curveFitting=1;jiggle=2;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="849" width="276" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-39" value="Learning &amp;amp; Feedback Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=20;fillColor=light-dark(#ffffff, #ededed);sketch=1;curveFitting=1;jiggle=2;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="917" width="276" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-40" value="Guardrails Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1;fontSize=20;fillColor=light-dark(#ffffff, #ededed);sketch=1;curveFitting=1;jiggle=2;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="976" width="276" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-41" value="Integration Layer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#ffffff, #ededed);fontStyle=1;fontSize=20;fillColor=light-dark(#2975e2, #ededed);sketch=1;curveFitting=1;jiggle=2;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="617" y="722" width="51" height="307" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-43" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.bots;strokeColor=light-dark(#0066cc, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="366" width="60" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="x1emsaLU5U0SJTcvq94k-33" target="x1emsaLU5U0SJTcvq94k-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="x1emsaLU5U0SJTcvq94k-33" target="x1emsaLU5U0SJTcvq94k-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-48" value="Tools, Systems &amp;amp; Environement" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0066CC,#FFFFFF);fontColor=light-dark(#0066cc, #ededed);fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="718" y="774" width="104" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="x1emsaLU5U0SJTcvq94k-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="x1emsaLU5U0SJTcvq94k-48" target="x1emsaLU5U0SJTcvq94k-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
